@@ -13,29 +13,46 @@ Join me as I explore, build, and innovate in this ever-evolving world of technol
 
 ## 🛠 Skills & Technologies
 
-![Java](https://custom-icon-badges.demolab.com/badge/Java-3a75b0.svg?logo=java&logoColor=white&style=plastic)
+## Programming Language
+
 [![Python](https://img.shields.io/badge/Python-1e415e?logo=python&logoColor=fff&style=plastic)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=plastic)
 [![HTML](https://img.shields.io/badge/HTML-white.svg?logo=html5&logoColor=E34F26&style=plastic)](#)
 [![CSS](https://img.shields.io/badge/CSS-fff?logo=css3&logoColor=1572B6&style=plastic)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-3a75b0.svg?logo=java&logoColor=white&style=plastic)
+
+## Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)](#)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-fff?logo=tensorflow&logoColor=FF6F00&style=plastic)
-[![Flutter](https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=02569B&style=plastic)](#)
-![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=plastic)
-![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?logo=pandas&logoColor=150458&style=plastic)
-![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white&style=plastic)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=plastic)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=plastic)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic)](#)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-black.svg?logo=vs%20code&logoColor=white&style=plastic)
-![jupyter](https://img.shields.io/badge/Jupyter-fff?logo=jupyter&logoColor=F37626&style=plastic)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white&style=plastic)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=plastic)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-000?logo=ubuntu&logoColor=E95420&style=plastic)](#)
-![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&style=plastic)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)](#)
-![MSI](https://img.shields.io/badge/-MSI-000?logo=msi&logoColor=FF0000&style=plastic)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+
+## Data Science
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+
+## Cloud System & Cloud Storage
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+[![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)
+[![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)
+
+
+## Framework
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+
 
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
 [comment]: <> (https://simpleicons.org/)
