@@ -31,6 +31,13 @@ Join me as I explore, build, and innovate in this ever-evolving world of technol
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
+## Framework
+
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+
 ## Data Science
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
@@ -46,12 +53,7 @@ Join me as I explore, build, and innovate in this ever-evolving world of technol
 [![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)
 
 
-## Framework
 
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 
 [comment]: <> (https://github.com/inttter/md-badges?tab=readme-ov-file#-work-and-jobs)
